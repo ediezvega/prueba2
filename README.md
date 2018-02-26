@@ -1,2 +1,1 @@
-# prueba2
-Practica 1
+Primer fichero en el primer reposito
