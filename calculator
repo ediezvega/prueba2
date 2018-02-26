@@ -19,6 +19,13 @@ num.value = Math.pow(num.value, 4);
 
 }
 
+function cuartapotencia2() {
+
+var num = document.getElementById("n1");
+
+num.value = Math.pow(num.value, 4);
+
+}
 
 function seno() {
 
@@ -45,6 +52,7 @@ Number:
 
 <button onclick="cuartapotencia()"> x^4 </button>
 
+<button onclick="cuartapotencia2()"> x^4 </button>
 </body>
 
 </html>
